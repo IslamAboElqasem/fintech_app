@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200570500940",
+    "project_id": "fintech-1f07e",
+    "storage_bucket": "fintech-1f07e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200570500940:android:7ea81d70b15cb79afa01e9",
+        "android_client_info": {
+          "package_name": "com.example.fintech_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuvCyTAihR8AQ8GYrGMLXM-qQCmVhMEhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
